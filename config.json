@@ -1,10 +1,10 @@
 {
-    "sitename":"pai233の小站",
+    "sitename":"FmGO",
     "allowlist": [
-        "pai233.top"
+        "GO.fmdns.cn"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https://go.fmdns.cn/",
+        "sitename": "FmGO"
     }
 }
