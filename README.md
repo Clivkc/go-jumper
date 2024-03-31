@@ -4,3 +4,5 @@
 更新版不需要再动js，直接更改根目录下的`config.json`即可。
 
 大佬们使用完觉得OK的，动动小手，给蒟蒻的仓库点个Star好不好QAQ
+
+神秘推荐[YG](https://go.fmdns.cn/#aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zL3pZTWtqdi1WMVc0aC5odG1s)
